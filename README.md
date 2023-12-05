@@ -20,4 +20,4 @@ I'm from Colombia and enjoy creating web applications using languages I have exp
 - 🌱 I’m currently learning Java, C++, Python (as part of university studies I end around 2025) and more WebDev frameworks
 - 📫 How to reach me: mateof1223@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mateo-felipe-guerrero-espinosa-6262842a3//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateo-felipe-guerrero-espinosa-6262842a3/)  
