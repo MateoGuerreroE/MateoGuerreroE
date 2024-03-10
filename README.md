@@ -12,14 +12,13 @@ I'm from Colombia and enjoy creating web applications using languages I have exp
 * 🌌 Python
   
 Libraries/Frameworks:
-* ⚛️ React using JSX / TSX
-* 💠 Next.js
-* ➰ Front End Frameworks such as Redux, Zustand, Tailwind, sweerAlert, etc.
-* 💢 Nest.js
+* ⚛️ React / Redux/ Zustand using JSX / TSX
+* 💠 Next.js / Vue.js
+* 💢 Nest.js / Express
 * 🌱 SpringBoot / Spring
-* 🍃 Mongo with Mongoose / Prisma
-* 🌐 PostreSQL with Sequelize / Prisma
-* 〽️ Back End Frameworks such as Express, nextAuth, NextAPI etc.
+* 🍃 MongoDB, PosgreSQL, MSSQL
+* 🌐 Mongoose, Sequelize, Prisma, TypeORM
+* 〽️ 0Auth, Firebase, Airtable, JWT
 
 ### My work
 
