@@ -14,13 +14,13 @@ I'm from Colombia and enjoy creating web applications using languages I have exp
 FE: 
 * ⚛️ React using JSX / TSX
 * 💠 Next.js
-* ➰ Front End Frameworks such as Redux, Zustand, Tailwind, sweerAlert...
+* ➰ Front End Frameworks such as Redux, Zustand, Tailwind, sweerAlert, etc.
 BE:
 * 💢 Nest.js
 * 🌱 SpringBoot / Spring
 * 🍃 Mongo with Mongoose / Prisma
 * 🌐 PostreSQL with Sequelize / Prisma
-* 〽️ Back End Frameworks such as Express, nextAuth, NextAPI etc...
+* 〽️ Back End Frameworks such as Express, nextAuth, NextAPI etc.
 
 ### My work
 
