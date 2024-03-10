@@ -11,11 +11,10 @@ I'm from Colombia and enjoy creating web applications using languages I have exp
 * 🌐 C++
 * 🌌 Python
   
-FE: 
+Libraries/Frameworks:
 * ⚛️ React using JSX / TSX
 * 💠 Next.js
 * ➰ Front End Frameworks such as Redux, Zustand, Tailwind, sweerAlert, etc.
-BE:
 * 💢 Nest.js
 * 🌱 SpringBoot / Spring
 * 🍃 Mongo with Mongoose / Prisma
