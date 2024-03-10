@@ -23,7 +23,7 @@ Libraries/Frameworks:
 ### My work
 
 - 🔭 I’m currently working remotely at Omedym, an US based company who provides selling interfaces/portals for B2B.
-- 🌱 I’m currently improving Java, C++, Python (as part of university studies I end around 2025) and more WebDev frameworks
+- 🌱 I’m currently doing certificates/masteries & University Studies (I'll end around 2025) in Java / C++ / Python + related frameworks
 - 📫 How to reach me: mateof1223@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateo-felipe-guerrero-espinosa-6262842a3/)  
