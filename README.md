@@ -24,7 +24,7 @@ BE:
 
 ### My work
 
-- 🔭 I’m currently working on Omedym remotely, US based company who provides selling interfaces/portals for B2B.
+- 🔭 I’m currently working remotely at Omedym, an US based company who provides selling interfaces/portals for B2B.
 - 🌱 I’m currently improving Java, C++, Python (as part of university studies I end around 2025) and more WebDev frameworks
 - 📫 How to reach me: mateof1223@gmail.com
 
