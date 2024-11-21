@@ -10,9 +10,10 @@ I'm from Colombia and enjoy creating web applications using languages I have exp
 * ⭐ JAVA
 * 🌐 C++
 * 🌌 Python
+* 
   
 Libraries/Frameworks:
-* ⚛️ React / Redux/ Zustand using JSX / TSX
+* ⚛️ React / GSM using JSX / TSX
 * 💠 Next.js / Vue.js
 * 💢 Nest.js / Express
 * 🌱 SpringBoot / Spring
