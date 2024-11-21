@@ -10,7 +10,7 @@ I'm from Colombia and enjoy creating web applications using languages I have exp
 * ⭐ JAVA
 * 🌐 C++
 * 🌌 Python
-* 
+* 🟦 C#
   
 Libraries/Frameworks:
 * ⚛️ React / GSM using JSX / TSX
